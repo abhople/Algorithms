@@ -25,7 +25,7 @@ public class BinarySearchTree {
 		binTree.insert(72);
 		binTree.insert(14);
 		
-		binTree.levelOrderTraversal();
+		binTree.preOrderTraversal();
 		
 	}
 
